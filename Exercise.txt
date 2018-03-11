@@ -1,3 +1,3 @@
 some text here
 Text was added and conflict was resolved!
-Ubdated file with changes again
+Changes was added again and conflict between branch and master was resolved
