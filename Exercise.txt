@@ -1,1 +1,3 @@
 some text here
+another text added
+different than the previous one
